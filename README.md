@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34346022/README.md)
 # AI 產業鏈追蹤
 
 由消費者向上游推導的 AI 產業鏈單頁網頁：前沿模型、算力架構、台灣供應鏈與硬體瓶頸。
